@@ -1,0 +1,26 @@
+.login-container{
+    float: right;
+    margin-top: 100px;
+    height: 400px;
+    width: 400px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.login-content{
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+
+.login-form-button{
+width: 380px;
+}
+
+.link{
+    color: rgb(19, 80, 194);
+}
+
+.error-msg{
+    color: red;
+}

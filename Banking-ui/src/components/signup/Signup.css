@@ -1,0 +1,27 @@
+.signup-container {
+    float: left;
+    margin-top: 20px;
+    width: 500px;
+    background: #ccd0d3;
+    padding: 30px;
+    border-radius: 15px;  
+}
+
+.link{
+    color: rgb(19, 80, 194);
+}
+
+.signup-form-button {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.signup-form-button[disabled], .signup-form-button[disabled]:hover, .signup-form-button[disabled]:focus {
+    color: #fff;
+    background-color: #1890ff;
+    border-color: #1890ff;
+}
+
+.signup-form input {
+    margin-bottom: 3px;
+}

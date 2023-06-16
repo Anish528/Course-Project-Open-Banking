@@ -1,0 +1,39 @@
+.search-container{
+    margin: auto;
+
+    width: 100%;
+    background: #ccd0d3;
+    padding: 20px;
+    border-radius: 15px;
+}
+.transfer-container{
+    margin: auto;
+
+    width: 100%;
+    background: #ccd0d3;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.searchform{
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+
+.link{
+    color: rgb(23, 71, 160);
+}
+
+.room-container{
+    margin: auto;
+
+    width: 900px;
+    background: #ccd0d3;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.create-room-content{
+    border-top: 1px solid;
+    padding-top: 15px;
+}
